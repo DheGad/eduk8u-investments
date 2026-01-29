@@ -63,8 +63,6 @@ export default function FutureEngine() {
                     probability: "92%",
                     cost: safeFormat(120000 * multiplier),
                     projectedIncome: `${safeFormat(95000 * multiplier)} / yr`,
-                    cost: safeFormat(120000 * multiplier),
-                    projectedIncome: `${safeFormat(95000 * multiplier)} / yr`,
                     scholarship: "High Potential (85%)",
                     chartData: generateChartData()
                 });
